@@ -1,5 +1,0 @@
-name: jupyterlab-sql 
-channels:
-  - anaconda
-dependencies:
-  - mysql # https://anaconda.org/anaconda/mysql
